@@ -1,0 +1,144 @@
+body{
+    font-family: 'Lato', sans-serif;
+    color:#333;
+    line-height:1.6em;
+    margin:0;
+    background-color:#fff;
+}
+
+.container{
+    width:90%;
+    max-width:900px;
+    margin:auto;
+}
+
+h1{
+    font-size:3rem;
+    color:#40CCEA;
+    word-spacing:10px;
+    border-bottom:1px dashed;
+    width:90%;
+    text-align:center;
+    padding-bottom:30px;
+    margin:auto;
+    padding-top:30px;
+}
+
+
+h2{
+    font-size:1.6em;
+}
+
+h3{
+    font-size:1.4em;
+}
+
+header, nav{
+    text-align:center;
+}
+
+
+.none{
+    text-decoration:none;
+    padding:1em;
+    margin:1em;
+}
+nav{
+     background-color:#40CCEA;
+     color:#fff;
+}
+
+
+.right{
+ float: right;
+ margin-left:1em;
+}
+
+.left{
+  float: left;
+  margin-right:1em;
+  
+}
+
+.clear {
+	clear: both;
+}
+
+.border{
+    padding-bottom:1.5em;
+    border-bottom:2px solid black;
+}
+  
+.En-savoir-plus{
+    background-color:#0096D0;
+    border-radius:6px;
+    padding:0.5em;
+    color:#fff;
+} 
+
+.background{
+    background-image:url(ressources/fond.jpg);
+    background-size:cover;
+    background-position:center;
+    padding:15px;
+    margin:0px;
+}
+
+.inside{
+    background-color:#fff;
+    max-width:50%;
+    margin:2em;
+    margin-left:15em;
+    margin-right:33em;
+    padding:1em;
+    
+}
+
+
+
+footer{
+    background-color:#40CCEA;
+    text-align:center;
+    color:#fff;
+}
+
+.foot {
+    color:#fff;
+    text-decoration:underline #fff;
+}
+
+i{
+    font-size:2em;
+}
+
+.bob{
+    font-size:15px;
+}
+
+.fa-facebook-square{
+    color:#4267B2;
+}
+
+.fa-twitter-square{
+    color:#1da1f2;
+}
+
+.fa-pinterest-square{
+    color:#bd081c;
+}
+
+.fa-instagram-square{
+    color:#8948C1;
+}
+
+address{
+    line-height:0.2em;
+}
+
+address p a{
+    text-decoration:none;
+    color:#40CCEA;
+}
+
+
+
