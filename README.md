@@ -1,2 +1,2 @@
-# Int-gration
+# Integration
 Projet intégration 
