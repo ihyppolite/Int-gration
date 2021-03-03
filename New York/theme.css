@@ -1,0 +1,93 @@
+@font-face {
+	font-family: 'Courgette';
+	src: url(ressources/Courgette-Regular.ttf) format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}	
+
+body{
+    font-family:Source Sans Pro , sans-serif ;
+    font-size:18px;
+    color: #444;
+    max-width: 980px;
+	margin:0 auto;
+	background-color:white;
+}
+
+h1{
+    font-size:40px;
+    color: #003884 ;
+    font-family:"Courgette";
+}
+
+h2{
+    font-size:35px;
+    color: #4f89b9;
+    text-align:center;
+    font-family:"Courgette";
+}
+
+h3{
+    font-size:25px;
+    color:#003884 ;
+    text-align:center;
+    font-family:"Courgette";
+}
+
+header{
+    text-align:center;
+}
+
+nav{
+    color:#003884 ;
+    font-weight: bolder;
+    font-family:"Courgette";
+}
+
+.citation{
+    background-color: #d7e1ef;
+    color:#003884 ;
+    font-family:"Courgette";
+    text-align:center;
+    font-size:25px;
+    margin:auto 1.5em;
+    
+    
+}
+
+.citation p{
+    font-size:18px;
+}
+
+.left{
+	float : left;
+	
+}
+
+.right{
+	float: right;
+
+}
+
+.footer{
+	text-align:center;
+	text-decoration:underline;
+	font-size:14px;
+}
+
+span{
+     color: #003884 ;
+     font-weight: lighter;
+     font-style:italic;
+}
+
+.bold{
+     font-weight: bold;
+     font-style:normal;
+}
+
+a{
+    text-decoration:none;
+}
+
+
